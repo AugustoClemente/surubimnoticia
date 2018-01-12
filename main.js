@@ -132,7 +132,7 @@
 				el.slick({
           arrows: attrNav,
           autoplaySpeed: attrSpeed,
-          autoplay:false,
+          autoplay:true,
           mobileFirst: true
         });
 			});
